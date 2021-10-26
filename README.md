@@ -7,6 +7,7 @@
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=kewlbear&repo=TensorFlowTTS)](https://github.com/TensorSpeech/TensorFlowTTS)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=kewlbear&repo=Kanna)](https://github.com/tid-kijyun/Kanna)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=kewlbear&repo=PythonKit)](https://github.com/pvieito/PythonKit)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=kewlbear&repo=kivy-ios)](https://github.com/kivy/kivy-ios)
 
 ![kewlbear github stats](https://github-readme-stats.vercel.app/api?username=kewlbear&show_icons=true&theme=highcontrast)
 
