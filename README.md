@@ -5,9 +5,7 @@
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=Swift,iOS,SwiftUI,Java,Kotlin,JavaScript)](https://github.com/kewlbear)
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=kewlbear&repo=TensorFlowTTS)](https://github.com/TensorSpeech/TensorFlowTTS)
-
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=kewlbear&repo=Kanna)](https://github.com/tid-kijyun/Kanna)
-
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=kewlbear&repo=PythonKit)](https://github.com/pvieito/PythonKit)
 
 ![kewlbear github stats](https://github-readme-stats.vercel.app/api?username=kewlbear&show_icons=true&theme=highcontrast)
