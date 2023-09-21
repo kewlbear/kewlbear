@@ -1,6 +1,8 @@
 ### 안녕 👋
 
+<!--
 [![Skills](https://widget.realdeveloper.pro/api/top?stack=Swift,SwiftUI,JavaScript)](https://github.com/kewlbear)
+-->
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=Swift,iOS,SwiftUI,Java,Kotlin,JavaScript)](https://github.com/kewlbear)
 
